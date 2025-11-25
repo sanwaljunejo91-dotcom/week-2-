@@ -1,0 +1,35 @@
+.static-box{
+background-color: lightgray;
+border: 2px solid red;
+color: black;
+padding: 20px;
+pasition: static;
+}
+
+
+
+.relative-box{
+background-color: lightblue;
+border: 2px solid green;
+color: white;
+padding: 20px;
+
+position: relative;
+top: 20px;
+
+}
+.normal-box{
+background-color: brown;
+padding: 20px;
+border: 2px solid black;
+}
+
+
+.parent-relative{
+
+}
+
+.fixed-box
+{
+
+}
